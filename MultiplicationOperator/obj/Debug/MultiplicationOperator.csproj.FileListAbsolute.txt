@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\MultiplicationOperator\MultiplicationOperator\bin\Debug\MultiplicationOperator.exe.config
+C:\Users\HP\source\repos\MultiplicationOperator\MultiplicationOperator\bin\Debug\MultiplicationOperator.exe
+C:\Users\HP\source\repos\MultiplicationOperator\MultiplicationOperator\bin\Debug\MultiplicationOperator.pdb
+C:\Users\HP\source\repos\MultiplicationOperator\MultiplicationOperator\obj\Debug\MultiplicationOperator.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\MultiplicationOperator\MultiplicationOperator\obj\Debug\MultiplicationOperator.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\MultiplicationOperator\MultiplicationOperator\obj\Debug\MultiplicationOperator.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MultiplicationOperator\MultiplicationOperator\obj\Debug\MultiplicationOperator.exe
+C:\Users\HP\source\repos\MultiplicationOperator\MultiplicationOperator\obj\Debug\MultiplicationOperator.pdb
